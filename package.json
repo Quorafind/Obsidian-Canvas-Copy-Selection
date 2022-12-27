@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-custom-plugin-starter",
+	"name": "copy-selection-in-canvas",
 	"version": "0.0.1",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "A plugin for copying the selection in canvas, which is based on your selection order.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
