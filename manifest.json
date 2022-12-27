@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-custom-plugin-starter",
-	"name": "Custom Plugin Starter",
+	"id": "copy-selection-in-canvas",
+	"name": "Copy Selection In Canvas",
 	"version": "0.0.1",
-	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
+	"minAppVersion": "1.1.0",
+	"description": "A plugin for copying the selection in canvas, which is based on your selection order.",
 	"author": "Boninall",
 	"authorUrl": "https://github.com/Quorafind",
 	"fundingUrl": {
